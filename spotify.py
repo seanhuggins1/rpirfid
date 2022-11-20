@@ -37,14 +37,3 @@ while True:
         time.sleep(3)
     else:
         print("This RFID is not registered:", id)
-    
-
-
-
-
-   
-
-
-
-
-# client.pause_playback()

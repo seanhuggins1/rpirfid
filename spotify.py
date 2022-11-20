@@ -3,7 +3,6 @@ from spotipy.oauth2 import SpotifyOAuth
 import os
 from dotenv import load_dotenv
 import rfidReader
-from pprint import pprint
 import time
 from beepy import beep
 
